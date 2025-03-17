@@ -3,6 +3,8 @@
 ## Overview
 This project analyzes road accident data to uncover trends related to vehicle type, location, time of day, and accident severity. The dashboard provides interactive visualizations to help understand key insights.
 
+![Dashboard Overview](reports/Screenshot/Dashboard.png)
+
 ## Dataset
 - **Source**: https://docs.google.com/spreadsheets/d/1po_7QivCqGceixWVXCoX_ftzf8scG-sl/edit?usp=drive_link&ouid=103334082426382181869&rtpof=true&sd=true
 - **Cleaning**: Null values removed, categorical encoding applied
